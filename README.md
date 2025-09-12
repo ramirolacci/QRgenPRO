@@ -11,6 +11,7 @@
   <h3>🚀 Generador Profesional de Códigos QR</h3>
   <p>App web moderna y completa para generar códigos QR de alta calidad con personalización avanzada</p>
   
+  <img src="Demo.png" alt="Demo"/>
   <a href="https://qr-gen-2n6g.bolt.host" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Demo_Live-FF6B6B?style=for-the-badge" alt="Demo Live" />
   </a>
