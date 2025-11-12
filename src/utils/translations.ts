@@ -40,6 +40,7 @@ export const translations = {
     fullName: 'Full Name',
     namePlaceholder: 'John Doe',
     contactPhone: 'Phone Number',
+    contactPhonePlaceholder: '+1234567890',
     contactEmail: 'Email Address',
     contactEmailPlaceholder: 'john@example.com',
     
@@ -104,7 +105,7 @@ export const translations = {
     emailLabel: 'Dirección de Email',
     emailPlaceholder: 'contacto@ejemplo.com',
     phoneLabel: 'Número de Teléfono',
-    phonePlaceholder: '+1234567890',
+    phonePlaceholder: '+11 2345-6789',
     
     // WiFi Form
     networkName: 'Nombre de Red (SSID)',
@@ -118,10 +119,11 @@ export const translations = {
     
     // Contact Form
     fullName: 'Nombre Completo',
-    namePlaceholder: 'Juan Pérez',
+    namePlaceholder: 'Ingresa tu nombre',
     contactPhone: 'Número de Teléfono',
+    contactPhonePlaceholder: '+11 2345-6789',
     contactEmail: 'Dirección de Email',
-    contactEmailPlaceholder: 'juan@ejemplo.com',
+    contactEmailPlaceholder: 'ejemplo@source.com',
     
     // Customization
     customizationTitle: 'Opciones de Personalización',

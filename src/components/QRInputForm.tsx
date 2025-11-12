@@ -155,7 +155,7 @@ export const QRInputForm: React.FC<QRInputFormProps> = ({ data, onChange, t }) =
                 type="tel"
                 value={phone}
                 onChange={(e) => handleContentChange(`${name}|${e.target.value}|${email}`)}
-                placeholder={t('phonePlaceholder')}
+                placeholder={t('contactPhonePlaceholder')}
                 className="w-full px-4 py-3 border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-700 text-gray-900 dark:text-white rounded-lg focus:ring-2 focus:ring-purple-500 dark:focus:ring-orange-500 focus:border-transparent transition-all duration-200"
               />
             </div>
